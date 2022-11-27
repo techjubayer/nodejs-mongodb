@@ -16,3 +16,16 @@ https://www.mongodb.com/try/download/community
 ## Download Post-Man
 https://www.postman.com/downloads/
 # Pre Requirments----------END
+
+
+# Post Request JSON Data---------
+{
+    "name": "Mahabubul Hpque",
+    "phone": 8638199111,
+    "address": [
+        {
+            "state": "assam",
+            "country": "India"
+        }
+    ]
+}
