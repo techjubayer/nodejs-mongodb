@@ -20,8 +20,8 @@ https://www.postman.com/downloads/
 
 # Post Request JSON Data---------
 {
-    "name": "Mahabubul Hpque",
-    "phone": 8638199111,
+    "name": "Jubayer Ali",
+    "phone": 4928392829,
     "address": [
         {
             "state": "assam",
