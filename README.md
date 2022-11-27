@@ -3,8 +3,7 @@ Get, Post, Delete, Update data in MongoDB using NodeJs
 
 
 # Pre Requirments----------
-## node js (Download from Google)
-https://nodejs.org/en/download/
+## node js (Download from Google)  https://nodejs.org/en/download/
 
 ## express (npm install express)
 ## nodemon (npm install nodemon)
